@@ -10,7 +10,7 @@ I have performed data analytics on Uber data on GCP using different tools and te
 
 ## Dataset:
 Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). The trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data.
-Dataset link: 
+Dataset link: https://github.com/NileshMandal/Uber-Data-Engineering-Project/blob/main/uber_data.csv
 
 ## Data Architecture:
 ![Untitled presentation](https://github.com/NileshMandal/Uber-Data-Engineering-Project/assets/68818014/b5b74e58-7312-4b0c-9b9f-5619439c2fef)

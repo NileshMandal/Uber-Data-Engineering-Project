@@ -1,5 +1,5 @@
-# Uber-Data-Engineering-Project
-I have performed data analytics on Uber data on GCP using different tools and technologies.
+# Data Analytics on Uber Data using GCP - Data Engineering Project
+The objective of this project is to perform data analytics on Uber data on GCP using different tools and technologies.
 
 ## Tools and Technology used:
 - Programming language: Python

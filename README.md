@@ -1,4 +1,4 @@
-# Data Analytics of Uber Data On GCP - Data Engineering Project
+# Data Analysis of Uber Data On GCP - Data Engineering Project
 The objective of this project is to perform data analytics on Uber data on GCP using different tools and technologies such as gcp Cloud Storage, Big Query, Mage, Looker Studio.
 
 ## Tools and Technology used:
